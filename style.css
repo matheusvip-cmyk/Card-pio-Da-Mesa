@@ -139,7 +139,7 @@ section#menu {
 .zap-btn::before {
   content: "";
   display: inline-block;
-  background: url('whatsapp-icon.png') no-repeat center/contain;
+  background: url('') no-repeat center/contain;
   width: 28px; height: 28px;
   margin-right: 0.5em;
   vertical-align: middle;
